@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TechJobs.Data;
+using TechJobs.Models;
 using TechJobs.ViewModels;
 
 namespace TechJobs.Controllers
